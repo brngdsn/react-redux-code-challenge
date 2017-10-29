@@ -1,5 +1,3 @@
 # react/redux code challenge
 
-requires `node@8` and `yarn`
-
-`$ yarn && yarn demo`
+you should want `nvm` and `yarn` so you can just `nvm use && yarn && yarn demo`
