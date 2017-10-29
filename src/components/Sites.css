@@ -1,0 +1,30 @@
+.sites {
+    font-family: BlinkMacSystemFont;
+    background-color: #fff;
+    border-left: 10px solid #7957d5;
+    border-radius: 60px;
+    padding:25px;
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+}
+
+.sites > div {
+    padding:10px;
+}
+
+.sites button {
+    cursor: pointer;
+    font-size: 17px;
+    color: white;
+    background-color: #00d1b2;
+    border: 0;
+}
+
+.sites button[disabled] {
+    cursor: default;
+    opacity: .5;
+}

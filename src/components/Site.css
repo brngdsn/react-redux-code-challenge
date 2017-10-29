@@ -1,0 +1,28 @@
+.site-state-busy {
+    color: hsl(48, 100%, 67%)
+}
+
+.site-state-ok {
+    color: hsl(141, 71%, 48%);
+}
+
+.site-state-error {
+    color: hsl(348, 100%, 61%);
+}
+
+
+.site-container {
+    display: flex;
+    flex-direction: row;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+.site-container > div {
+    padding: 5px;
+    min-width:20px;
+}
+
+.site-container i {
+    font-size:25px;
+}
