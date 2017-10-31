@@ -356,10 +356,6 @@ const SITES = [
         "url": "so.com"
     },
     {
-        "id": 91,
-        "url": "txxx.com"
-    },
-    {
         "id": 92,
         "url": "nicovideo.jp"
     },
